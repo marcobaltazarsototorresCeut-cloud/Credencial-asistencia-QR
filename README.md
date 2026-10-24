@@ -51,3 +51,4 @@ Pasa con cámaras virtuales o de teléfono (Camo, DroidCam, iVCam, OBS...): el m
 - Si aun así se ve mal, usa el selector **Motor** (junto a "Buscar cámaras"): prueba "Media Foundation" y luego "DirectShow". La elección se recuerda en config.json y la cámara se reabre al cambiarla.
 - Si ningún motor entrega una imagen válida, la cámara se abre igual con un aviso amarillo ("puede verse distorsionada").
 - Con Media Foundation el número de cámara podría no coincidir con el de DirectShow si tienes varias; con una sola no hay problema.
+# asistencia_qr_py
